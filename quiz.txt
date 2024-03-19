@@ -1,0 +1,66 @@
+W Obiektowym Modelu Dokumentu obiektem stojącym najwyżej w hierarchii jest obiekt:
+document
+innerHTML
+window
+Zdarzenie w skrypcie HTML umieszcza się:
+jako atrybut o nazwie zdarzenia w znaczniku, którego zdarzenie dotyczy
+jako atrybut o nazwie zdarzenia w znaczniku &ltSCRIPT&gt
+jako oddzielny znacznik o nazwie zdarzenia
+Aby kilka kontrolek typu radio stanowiły jedną grupę należy każdej z nich:
+nadać atrybut ID o identycznej nazwie
+nadać atrybut NAME o identycznej nazwie
+nadać atrybut VALUE o identycznej nazwie
+Kontrolka tekstowa, w której podczas wpisywania znaki są zastępowane kropkami jest typu:
+hidden
+password
+pwd
+Kontrolka mająca kształt przesuwalnego suwaka jest typu:
+range
+ruler
+slider
+Które polecenie spowoduje pobranie do zmiennej a zawartości z pola tekstowego login:
+a = document.getElementById('login')
+a = document.getElementById('login').id
+a = document.getElementById('login').value
+Czy w nazwach zmiennych w języku JavaScript są rozróżniane wielkie i małe litery?
+nie
+tak
+zależnie od używanego systemu operacyjnego
+Funkcję w języku JavaScript definiuje słowo kluczowe:
+def
+fun 
+function
+polecene write() jest przypisane do obiektu:
+document
+window
+nie jest przypisane do żadnego obiektu
+polecene alert() jest przypisane do obiektu:
+document
+window
+nie jest przypisane do żadnego obiektu
+Blok &ltSCRIPT&gt na stronie html może być umieszczony:
+na początku strony
+w części &ltHEAD&gt
+w dowolnym miejscu na stronie
+Ternary operator zastępuje:
+pętlę for
+pętlę while
+warunek if/else
+Ternary operator ma postać:
+[test_logiczny] : [wyrażenie_1] : [wyrażenie_2]
+[test_logiczny] : [wyrażenie_1] ? [wyrażenie_2]
+[test_logiczny] ? [wyrażenie_1] : [wyrażenie_2]
+W poleceniu a = document.body.style.color, słowo color reprezentuje:
+obiekt
+właściwość
+zdarzenie
+W poleceniu a = document.body.style.color, słowo style reprezentuje:
+obiekt
+właściwość
+zdarzenie
+Który zapis jest poprawny?
+document.body.style.background-color
+document.body.style.backgroundcolor
+document.body.style.backgroundColor
+
+01011100111110101100111001011011100110101011110111000110010110011011000011001110011100101111011100100011000100100100010100011000100010010010101000011100000000110010000010100111110010000001001110001010011001001111011010001100101100101010100100101010101010
